@@ -3,7 +3,7 @@
 ### We are Comparing different models for solving the above problem statement
 ### 1. Pix2Pix using Wessesterian Loss :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING WASSERSTEIN LOSS
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pix%20Wloss.png)
+![OUTPUT](https://github.com/jenil13/SIH-2020--Depth-Estimation-of-Valles-Marineris-using-ISRO-s-Mars-Color-Camera-images/blob/main/Images/Pix2pix%20Wloss.png)
 ### 2. Pix2Pix using Binary Cross Entropy :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING Binary Cross Entropy
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pixBCE.PNG)
