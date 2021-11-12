@@ -6,10 +6,10 @@
 ![OUTPUT](https://github.com/jenil13/SIH-2020--Depth-Estimation-of-Valles-Marineris-using-ISRO-s-Mars-Color-Camera-images/blob/main/Images/Pix2pix%20Wloss.png)
 ### 2. Pix2Pix using Binary Cross Entropy :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING Binary Cross Entropy
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pixBCE.PNG)
+![OUTPUT](https://github.com/jenil13/SIH-2020--Depth-Estimation-of-Valles-Marineris-using-ISRO-s-Mars-Color-Camera-images/blob/main/Images/Pix2pixBCE.PNG)
 ### 3. SAT2MAP 
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Sat2map.png)
+![OUTPUT](https://github.com/jenil13/SIH-2020--Depth-Estimation-of-Valles-Marineris-using-ISRO-s-Mars-Color-Camera-images/blob/main/Images/Sat2map.png)
 
 
 ```
