@@ -1,4 +1,6 @@
 # NM392_Neural-Architects
+## pix2pix(BCE).txt --- there is link of google colab where there is code for pix2pixBCE model
+## pix2pix(wloss).txt --there is link of google colab where there is code for pix2pixwloss model
 ## PS: Depth Estimation of Valles Marineris using ISRO’s Mars Color Camera (MCC) images.
 ### We are Comparing different models for solving the above problem statement
 ### 1. Pix2Pix using Wessesterian Loss :
